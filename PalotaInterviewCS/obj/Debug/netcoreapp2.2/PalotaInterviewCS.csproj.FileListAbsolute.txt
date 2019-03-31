@@ -1,0 +1,11 @@
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\bin\Debug\netcoreapp2.2\PalotaInterviewCS.deps.json
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\bin\Debug\netcoreapp2.2\PalotaInterviewCS.runtimeconfig.json
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\bin\Debug\netcoreapp2.2\PalotaInterviewCS.runtimeconfig.dev.json
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\bin\Debug\netcoreapp2.2\PalotaInterviewCS.dll
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\bin\Debug\netcoreapp2.2\PalotaInterviewCS.pdb
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\obj\Debug\netcoreapp2.2\PalotaInterviewCS.csprojAssemblyReference.cache
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\obj\Debug\netcoreapp2.2\PalotaInterviewCS.csproj.CoreCompileInputs.cache
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\obj\Debug\netcoreapp2.2\PalotaInterviewCS.AssemblyInfoInputs.cache
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\obj\Debug\netcoreapp2.2\PalotaInterviewCS.AssemblyInfo.cs
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\obj\Debug\netcoreapp2.2\PalotaInterviewCS.dll
+C:\Users\tmsitshana\Downloads\PalotaAssessment-DataConsoleCountries-master\PalotaInterviewCS\obj\Debug\netcoreapp2.2\PalotaInterviewCS.pdb
